@@ -1,12 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ahmed-anchor.ahmed-anchor" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Ashraf!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=700&height=100&duration=4300&lines=Hi+There!;+I'M+Ahmed;" />
 </h1>
 
-<h3 align="center">Once a Developer Then An entrepreneur</h3>
 
-<br/>
 
 <div align="center">
 
@@ -24,8 +22,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
-<br/>
-<hr/>
-
-
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=700&height=100&duration=4600&lines=Once+a+Developer;+Then+An+Entrepreneur;" />
+</h1>
