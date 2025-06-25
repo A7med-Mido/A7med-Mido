@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  I'm Ahmed The Founer of [**`Meta Web`**](https://www.metaweb.store) SoftWare Company Where We Build Web and Mobile Apps
+  Hi There, I'm Ahmed a SoftWare Dev and Founder of [**`Meta Web`**](https://www.metaweb.store) Company Where We Build Web and Mobile Apps
 
   💬 If You're Curious About Something Just DM Me **[here](https://instagram/wise-mido4)**
 
