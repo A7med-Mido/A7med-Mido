@@ -1,33 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ahmed-anchor.ahmed-anchor" />
 
+
+
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=700&height=100&duration=4300&lines=Hi+There!;+I'M+Ahmed;" />
 </h1>
-
-
-
-<div align="center">
-
-  Hi There, I'm Ahmed a SoftWare Dev and Founder of [**`Meta Web`**](https://www.metaweb.store) Company Where We Build Web and Mobile Apps
-
-  💬 If You're Curious About Something Just DM Me **[here](https://instagram/wise-mido4)**
-
- </div>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<div>
-<p>
-  <img width="340px" align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-anchor&show_icons=true&locale=en&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="ahmed-anchor" />
-</p>
-<p>
-  <img align="center" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-anchor&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="ahmed-anchor" />
-</p>
-</div>
-
 
 <br/>
 <hr/>
@@ -101,7 +80,14 @@
 
 </div>
 
+<div>
+<p>
+  <img align="center" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-anchor&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="ahmed-anchor" />
+</p>
+</div>
 
+<br/>
+<hr/>
 
 
 <h1 align="center">
