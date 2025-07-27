@@ -18,10 +18,9 @@
 <h2 align="center">⚒️ Languages || Frameworks || Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,typescript,c,c++,c#,go,expo,python,swift,express,nextjs,postgresql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,typescript,c,c++,c#,go,expogo,python,swift,express,nextjs,postgresql,sqlite,nodejs" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-anchor&show_icons=true&locale=en" alt="ahmed-anchor" /></p>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
 <h1 align="center">
