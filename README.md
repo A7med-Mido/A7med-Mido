@@ -35,7 +35,7 @@
     
 <h1 align="left">Skills🥷🏼:</h1>
 <br/>
-<h2 align="left">Languages:</h2>
+<p align="left">Languages:</p>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin: 0;">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
@@ -48,7 +48,7 @@
 </p>
 <br/>
 
-<h2 align="left">Frameworks & Libraries:</h2>
+<p align="left">Frameworks & Libraries:</p>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin: 0;">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></a>
   <a href="https://expo.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Expo_Logo.svg" alt="expo" width="50" height="50"/></a>
