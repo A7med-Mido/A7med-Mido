@@ -13,6 +13,9 @@
   💬 If You're Curious About Something Just DM Me **[here](https://instagram/wise-mido4)**
 
  </div>
+<br/>
+<br/>
+<br/>
 
 <div>
 <p>
@@ -24,13 +27,14 @@
 </p>
 </div>
 
-<br/>
-<br/>
+
 <br/>
 <hr/>
 
 <div align="center">
     
+<h3 align="left">Skills🥷🏼:</h3>
+<br/>
 <h3 align="left">Languages:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin: 0;">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/></a>
