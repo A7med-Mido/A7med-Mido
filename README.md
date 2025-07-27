@@ -21,7 +21,7 @@
 
 <div>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-anchor&show_icons=true&locale=en&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="ahmed-anchor" />
+  <img width="260px" align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-anchor&show_icons=true&locale=en&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="ahmed-anchor" />
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-anchor&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="ahmed-anchor" />
