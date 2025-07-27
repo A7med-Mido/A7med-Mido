@@ -53,7 +53,7 @@
 <p align="left">Frameworks & Libraries:</p>
 <div align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70" style="margin: 5px;"/></a>
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Expo_Logo.svg" alt="expo" width="70" height="70" style="margin: 5px;"/></a>
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer"><img src="[https://upload.wikimedia.org/wikipedia/commons/3/37/Expo_Logo.svg](https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s=w480-h960-rw)" alt="expo" width="70" height="70" style="margin: 5px;"/></a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="70" height="70" style="margin: 5px;"/></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="70" height="70" style="margin: 5px;"/></a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="70" height="70" style="margin: 5px;"/></a>
