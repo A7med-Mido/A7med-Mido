@@ -13,7 +13,9 @@
   💬 If You're Curious About Something Just DM Me **[here](https://instagram/wise-mido4)**
 
  </div>
- 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-anchor&show_icons=true&locale=en&layout=compact" alt="ahmed-anchor" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-anchor&show_icons=true&locale=en" alt="ahmed-anchor" /></p>
  
 <h2 align="center">⚒️ Languages || Frameworks || Tools ⚒️</h2>
 <br/>
