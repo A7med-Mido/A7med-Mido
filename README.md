@@ -33,7 +33,7 @@
 
 <div align="center">
     
-<h3 align="left">Skills🥷🏼:</h3>
+<h1 align="left">Skills🥷🏼:</h3>
 <br/>
 <h3 align="left">Languages:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin: 0;">
