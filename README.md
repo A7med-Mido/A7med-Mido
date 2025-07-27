@@ -13,15 +13,21 @@
   💬 If You're Curious About Something Just DM Me **[here](https://instagram/wise-mido4)**
 
  </div>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-anchor&show_icons=true&locale=en&layout=compact" alt="ahmed-anchor" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ahmed-anchor&show_icons=true&locale=en" alt="ahmed-anchor" /></p>
+<div>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-anchor&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="ahmed-anchor" />
+</p>
+
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ahmed-anchor&show_icons=true&locale=en&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="ahmed-anchor" />
+</p>
+</div>
 
 <br/>
 <br/>
- 
-<h2 align="center">⚒️ Languages || Frameworks || Tools ⚒️</h2>
 <br/>
+
 <div align="center">
     
 <h3 align="left">Languages:</h3>
