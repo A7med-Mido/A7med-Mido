@@ -3,16 +3,13 @@
 
 
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=700&height=100&duration=4300&lines=Hi+There!;+I'M+Ahmed;" />
-</h1>
-<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=700&height=100&duration=4300&lines=Hi+There!;+I'M+Ahmed;" />
 
 <br/>
 <hr/>
 
 <div align="center">
-    
 <h1 align="left">Skills🥷🏼:</h1>
 <br/>
 
