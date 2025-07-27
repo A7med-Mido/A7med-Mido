@@ -61,7 +61,7 @@
 </p>
 <br/>
 
-<h2 align="left">Tools:</h2>
+<p align="left">Tools:</p>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin: 0;">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
@@ -73,7 +73,7 @@
 </p>
 <br/>
 
-<h2 align="left">Databases:</h2>
+<p align="left">Databases:</p>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin: 0;">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/></a>
@@ -84,7 +84,7 @@
 </p>
 <br/>
 
-<h2 align="left">Platforms & Runtime:</h2>
+<p align="left">Platforms & Runtime:</p>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin: 0;">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/></a>
