@@ -1,10 +1,10 @@
 
 <br/>
 <hr/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A7med-Mido&layout=compact&hide_title=true)
+
 
 <a href="https://github.com/A7med-Mido">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=A7med-Mido&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=A7med-Mido&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=A7med-Mido&layout=compact&hide_title=true)" />
 </a>
 <a href="https://github.com/A7med-Mido">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7med-Mido&layout=compact" />
